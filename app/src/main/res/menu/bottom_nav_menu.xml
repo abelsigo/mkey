@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Keys"
+        android:id="@+id/Keys"
+        android:icon="@drawable/circularbutton"/>
+    <item android:title="Generador"
+        android:id="@+id/Generador"
+        android:icon="@drawable/circularbutton"/>
+    <item android:title="Cuenta"
+        android:id="@+id/Cuenta"
+        android:icon="@drawable/circularbutton"/>
+</menu>

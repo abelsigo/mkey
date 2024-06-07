@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/common_google_signin_btn_text_light_default</item>
+        <item name="colorPrimaryDark">@color/common_google_signin_btn_text_dark_default</item>
+        <item name="colorAccent">@color/design_default_color_primary_variant</item>
+    </style>
+
+    <style name="CustomMaterialButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/colorBorderDefault</item>
+        <item name="backgroundTint">@color/colorBackgroundPressed</item> <!-- Color de fondo cuando está presionado -->
+    </style>
+
+    <style name="CustomMaterialButtonChecked" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/colorBorderPressed</item>
+        <item name="backgroundTint">@color/colorBackgroundPressed</item> <!-- Color de fondo cuando está presionado -->
+    </style>
+
+</resources>

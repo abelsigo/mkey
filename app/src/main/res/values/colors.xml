@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#E2D3FA</color>
+    <color name="purpleActionBar">#6750a4</color>
+    <color name="purpleButton">#E0B6FF</color>
+    <color name="purpleFrame">#E1D3FA</color>
+
+    <color name="blueActionBar">#067dd1</color>
+    <color name="blueButton">#26A69A</color>
+    <color name="blueFrame">#81D4FA</color>
+    <color name="blueAccent">#0c273a</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#FAFAFA</color>
+    <color name="textColorInfo">#474747</color>
+    <color name="backgroundColor">#FAFAFA</color>
+
+    <color name="colorBorderDefault">#5C5C5C</color>
+    <color name="colorBorderPressed">#26A69A</color> <!-- Azul para el borde cuando está presionado -->
+    <color name="colorBackgroundPressed">#26A69A</color>
+</resources>
